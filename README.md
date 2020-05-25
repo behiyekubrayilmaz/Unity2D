@@ -1,3 +1,3 @@
-# Unity2D
+# Unity3D
 
-Proje Unity2D olarak gelistirilen oyuncunun kristalleri toplayarak skorun artmasini saglayan bir oyundur.
+Proje Unity Engine ile gelistirilen oyuncunun kristalleri toplayarak skorun artmasini saglayan 3D bir oyundur.
